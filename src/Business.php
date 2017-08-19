@@ -1,4 +1,8 @@
 <?php
+namespace FreshPencils;
+
+use FreshPencils\Users\Person;
+
 class Business {
   protected $staff;
 

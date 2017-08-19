@@ -1,4 +1,9 @@
 <?php
+
+namespace FreshPencils;
+
+use FreshPencils\Users\Person;
+
 class Staff {
   protected $member = [];
 

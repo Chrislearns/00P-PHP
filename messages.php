@@ -1,7 +1,8 @@
 <?php
-require "src/Person.php";
-require "src/Business.php";
-require "src/Staff.php";
+use FreshPencils\Users\Person;
+use FreshPencils\Business;
+use FreshPencils\Staff;
+
 
  $chris = new Person("Chris");
 

@@ -1,4 +1,7 @@
 <?php
+namespace FreshPencils\Users;
+
+
 class Person {
 
   protected $name;
